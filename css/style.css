@@ -391,7 +391,7 @@ h2 {
   color: #d9dbe1;
 }
 .footer__bottom {
-  margin-top: 10%;
+  margin-top: 150px;
 }
 .footer__bottom .footer-nav {
   display: flex;
@@ -459,7 +459,9 @@ h2 {
   .hero__content {
     padding-top: 150px;
   }
-
+  .footer__bottom {
+    margin-top: 100px;
+  }
   .hero {
     height: 60vh;
   }
@@ -531,7 +533,9 @@ h2 {
     font-size: 50px;
     line-height: 60px;
   }
-
+  .footer__bottom {
+      margin-top: 10%;
+  }
   .hero {
     height: 50vh;
   }
